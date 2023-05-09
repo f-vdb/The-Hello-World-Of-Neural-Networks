@@ -1,0 +1,6 @@
+• Der erste Wert ist die Kennung (das Label), das heißt die tatsächliche Ziffer,
+die das handschriftlich geschriebene Zeichen darstellen soll, beispielsweise eine 7 oder eine 9.
+Das ist die Antwort, die das neuronale Netz geben soll nachdem es die Lernphase abgeschlossen hat.
+• Die darauffolgenden Werte, die jeweils durch Kommata getrennt sind,
+geben die Pixelwerte der handschriftlichen Ziffer an.
+Ein Ziffernbild besteht aus 28 x 28 Pixeln, sodass nach der Kennung 784 Werte stehen.
