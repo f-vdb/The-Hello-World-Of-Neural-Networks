@@ -28,14 +28,14 @@ math books and solved some simple problems.
 
 Over the past few months, I've been reading the following books on and off:
 - **„Neuronale Netze Programmieren mit Python“** von **Joachim Steinwender** und **Roland Schwaiger**
-- **„Neural Networks form Scratch in Python“** from **Harrison Ainsley** and **Daniel Kukiela** 
+- **„Neural Networks from Scratch in Python“** from **Harrison Ainsley** and **Daniel Kukiela** 
 - **„Mathematics for Machine Learning“** from **Marc Peter Deisenroth**, **A. Aldo Faisal** and **Cheng Soon One**
 
 But this book is not easy for me.
 
 And so it happened that I programmed my first neural network with Python myself in the last week.
 
-If only one had more time to learn :)
+If only one had more time to learn... its a technically fascinating time.
 
 ## Possible ToDo:
 1) try useful values/settings for hiddenNotes and the learning rate automatically
