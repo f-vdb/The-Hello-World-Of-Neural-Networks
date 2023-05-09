@@ -1,7 +1,7 @@
 # The Hello World Of Neural Networks
 
 ## Description:
-This is a simple neuroyal network that teaches itself to recognize handwritten numbers.
+This is a simple neural network that teaches itself to recognize handwritten numbers.
 To train and test the network, data from the MNIST database was used.
 
 https://de.wikipedia.org/wiki/MNIST-Datenbank
@@ -29,9 +29,10 @@ math books and solved some simple problems.
 Over the past few months, I've been reading the following books on and off:
 - **„Neuronale Netze Programmieren mit Python“** von **Joachim Steinwender** und **Roland Schwaiger**
 - **„Neural Networks from Scratch in Python“** from **Harrison Ainsley** and **Daniel Kukiela** 
-- **„Mathematics for Machine Learning“** from **Marc Peter Deisenroth**, **A. Aldo Faisal** and **Cheng Soon One**
 
 But this book is not easy for me.
+- **„Mathematics for Machine Learning“** from **Marc Peter Deisenroth**, **A. Aldo Faisal** and **Cheng Soon One**
+
 
 And so it happened that I programmed my first neural network with Python myself in the last week.
 
